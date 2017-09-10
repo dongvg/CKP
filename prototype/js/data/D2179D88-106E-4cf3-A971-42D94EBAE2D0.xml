@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.2:1", "", "Chi tiet hop dong", "EARoot/EA2/EA34.htm", "188.png", "11", "0", "", "Custom diagram0","{52D58C71-0542-4913-AA74-D3CF3B8C1E9F}");
+tocTab[tocTab.length] = new Array("0.2:2", "", "Chon phieu bom", "EARoot/EA2/EA36.htm", "188.png", "10", "0", "", "Custom diagram0","{6D59149E-8350-49b8-B80E-D6A82FB8FF71}");
+tocTab[tocTab.length] = new Array("0.2:3", "", "Quan ly hop dong", "EARoot/EA2/EA38.htm", "188.png", "8", "0", "", "Custom diagram0","{51ABC620-21A4-4fed-8EEF-17AEE8153372}");
+tocTab[tocTab.length] = new Array("0.2:4", "", "Them moi hop dong", "EARoot/EA2/EA40.htm", "188.png", "9", "0", "", "Custom diagram0","{F2EDF264-7E3A-458a-968D-A427F878816D}");
+tocTab[tocTab.length] = new Array("0.2:5", "", "Chi tiet hop dong", "EARoot/EA2/EA43.htm", "11.png", "E68", "0", "", "Screen0","{3817FEB8-04FD-44bb-92B4-C1BAF4863C84}");
+tocTab[tocTab.length] = new Array("0.2:6", "", "Chon phieu bom", "EARoot/EA2/EA44.htm", "11.png", "E63", "0", "", "Screen0","{542CF54B-A916-408a-B7B4-3978794B41BE}");
+tocTab[tocTab.length] = new Array("0.2:7", "", "Quan ly bom", "EARoot/EA2/EA45.htm", "11.png", "E49", "0", "", "Screen0","{4464F548-0A08-4327-A448-257E6E1E241C}");
+tocTab[tocTab.length] = new Array("0.2:8", "", "Quan ly hop dong", "EARoot/EA2/EA46.htm", "11.png", "E57", "0", "", "Screen0","{168C5CDF-AE74-4b6b-AA90-9869D4C2CA39}");
+tocTab[tocTab.length] = new Array("0.2:9", "", "Quan ly hop dong", "EARoot/EA2/EA47.htm", "11.png", "E78", "0", "", "Screen0","{2C471F05-3067-48f0-864D-E32A3993053C}");
+tocTab[tocTab.length] = new Array("0.2:10", "", "«form» Quan ly bom", "EARoot/EA2/EA48.htm", "16.png", "E51", "E49", "", "GUIElement0","{E63AB0FE-4233-4f96-8D52-6172DDF58B5F}");
+tocTab[tocTab.length] = new Array("0.2:11", "", "«form» Quan ly hop dong", "EARoot/EA2/EA51.htm", "16.png", "E59", "E57", "", "GUIElement0","{61515469-E45E-4555-9865-4E6DD55D1274}");
+tocTab[tocTab.length] = new Array("0.2:12", "", "«form» Quan ly hop dong", "EARoot/EA2/EA58.htm", "16.png", "E80", "E78", "", "GUIElement0","{56629F1C-1712-47fa-A264-5C2BAD29D793}");

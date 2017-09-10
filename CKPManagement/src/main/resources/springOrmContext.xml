@@ -39,4 +39,5 @@
     <bean class="org.springframework.dao.annotation.PersistenceExceptionTranslationPostProcessor" />
  
     <bean id="UserService" class="com.dvd.ckp.business.service.UserServiceImpl" />
+    <bean id="CustomerService" class="com.dvd.ckp.business.service.CustomerServiceImpl" />
 </beans>

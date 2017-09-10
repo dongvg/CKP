@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.3:1", "", "Quan ly may bom", "EARoot/EA3/EA60.htm", "188.png", "12", "0", "", "Custom diagram0","{55F3EF8E-3518-4a48-AD9D-AEA50FB40965}");
+tocTab[tocTab.length] = new Array("0.3:2", "", "Them moi may bom", "EARoot/EA3/EA62.htm", "188.png", "13", "0", "", "Custom diagram0","{3C518879-7D75-4b3a-A86A-0EA64B5C337D}");
+tocTab[tocTab.length] = new Array("0.3:3", "", "Quan ly may bom", "EARoot/EA3/EA65.htm", "11.png", "E73", "0", "", "Screen0","{7252336D-383F-4f8b-A50D-F651080D3D31}");
+tocTab[tocTab.length] = new Array("0.3:4", "", "Quan ly may bom", "EARoot/EA3/EA66.htm", "11.png", "E84", "0", "", "Screen0","{A84D5D43-8DB9-4fbc-A466-44F178C11B89}");
+tocTab[tocTab.length] = new Array("0.3:5", "", "«form» Quan ly may bom", "EARoot/EA3/EA69.htm", "16.png", "E75", "E73", "", "GUIElement0","{761C0450-C14B-418f-83E6-1B5A9AAF6BF8}");
+tocTab[tocTab.length] = new Array("0.3:6", "", "«form» Quan ly may bom", "EARoot/EA3/EA73.htm", "16.png", "E86", "E84", "", "GUIElement0","{634B3EA7-1958-4976-BB18-87825B568CD8}");

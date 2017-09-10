@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1:1", "", "Them moi khach hang", "EARoot/EA1/EA27.htm", "188.png", "7", "0", "", "Custom diagram0","{60200A55-7919-4354-A0BF-2FBF3E7CE237}");
+tocTab[tocTab.length] = new Array("0.1:2", "", "Them moi khach hang", "EARoot/EA1/EA30.htm", "11.png", "E42", "0", "", "Screen0","{7C9B17F7-64FD-44eb-B7BB-2734769E7171}");
+tocTab[tocTab.length] = new Array("0.1:3", "", "«form» Danh sách khách hàng", "EARoot/EA1/EA33.htm", "16.png", "E44", "E42", "", "GUIElement0","{2D08C9EA-211F-4a2e-868B-F102EBF70DB8}");

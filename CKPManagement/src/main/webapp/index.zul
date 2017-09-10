@@ -6,7 +6,7 @@
     <!--<button id="btnLogout">${c:l('logout.submit')}</button>-->
     <borderlayout apply="com.dvd.ckp.controller.MainController">
         <north size="7%" border="none" style="background-color:#7cb5d6;">
-            <image src="/images/logo.png">
+            <image src="/images/logo.png" >
                 
             </image>
             <!--<button id="btnLogout">${c:l('logout.submit')}</button>-->
@@ -39,8 +39,8 @@
                         </tabpanels>
                     </tabbox>
 <!--                    <spreadsheet id="ss" width="100%" height="100%" context="myContext"
-                    showFormulabar="true" showContextMenu="true" showToolbar="true"
-                    showSheetbar="true" maxVisibleRows="100" maxVisibleColumns="40"
+                    showFormulabar="false" showContextMenu="false" showToolbar="false"
+                    showSheetbar="false" maxVisibleRows="100" maxVisibleColumns="40"
                     preloadRowSize="50"
                     src="E:\PHUONG ANH\CONG TAC QUAN LY\BAO CAO\BAO CAO THANG\2017\BAO CAO THANG 1-17.xlsx"
                    />-->

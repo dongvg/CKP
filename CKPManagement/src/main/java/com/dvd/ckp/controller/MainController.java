@@ -52,7 +52,7 @@ public class MainController extends SelectorComposer<Component> {
     Treeitem itemContract;
     private Session session;
     private List<Tab> lstTabs;
-    private int limitTabs = 100;
+    private final int limitTabs = 100;
 
     @Override
     public void doAfterCompose(Component comp) throws Exception {
@@ -86,7 +86,6 @@ public class MainController extends SelectorComposer<Component> {
     }
 
     private void addTab(String pstrURL, final String pstrId, String pstrTilte) {
-//        pstrTilte = Labels.getLabel(pstrTilte);
         Include contentTabMenu;
         if (lstTabs.size() < limitTabs) {
             Tab newTab = getExistTab(pstrId, lstTabs);

@@ -12,5 +12,6 @@ package com.dvd.ckp.utils;
 public interface SpringConstant {
     
     String USER_SERVICES="UserService";
+    String CUSTOMER_SERVICES="CustomerService";
     
 }

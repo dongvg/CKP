@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.4:1", "", "Chi tiet pheu bom", "EARoot/EA4/EA74.htm", "188.png", "17", "0", "", "Custom diagram0","{231542E1-1343-4bf1-8E9A-9453C5C64872}");
+tocTab[tocTab.length] = new Array("0.4:2", "", "Chon may bom", "EARoot/EA4/EA76.htm", "188.png", "16", "0", "", "Custom diagram0","{DAACC5A8-8C68-4cc7-BA49-81FDDB66E322}");
+tocTab[tocTab.length] = new Array("0.4:3", "", "Quan ly phieu bom", "EARoot/EA4/EA78.htm", "188.png", "14", "0", "", "Custom diagram0","{CB870D27-37B0-4c6b-888C-A3EA8DEB0B33}");
+tocTab[tocTab.length] = new Array("0.4:4", "", "Them moi phieu bom", "EARoot/EA4/EA80.htm", "188.png", "15", "0", "", "Custom diagram0","{132F1A25-192E-4299-ACF5-0A53D25B2B6A}");
+tocTab[tocTab.length] = new Array("0.4:5", "", "Chi tiet phieu bom", "EARoot/EA4/EA83.htm", "11.png", "E110", "0", "", "Screen0","{C73BC7D1-4C53-4822-A8B0-7566CE0F80FA}");
+tocTab[tocTab.length] = new Array("0.4:6", "", "Chon may bom", "EARoot/EA4/EA84.htm", "11.png", "E103", "0", "", "Screen0","{49F0C8BE-470D-4b2c-A4A5-A235537F3EC7}");
+tocTab[tocTab.length] = new Array("0.4:7", "", "Quan ly phieu bom", "EARoot/EA4/EA85.htm", "11.png", "E97", "0", "", "Screen0","{C6F34BD3-5641-4758-984D-2CDC92529ECD}");
+tocTab[tocTab.length] = new Array("0.4:8", "", "Quan ly phieu bom", "EARoot/EA4/EA86.htm", "11.png", "E90", "0", "", "Screen0","{B740B002-57B4-49ef-8993-791B6DC5EA35}");
+tocTab[tocTab.length] = new Array("0.4:9", "", "«form» Quan ly phieu bom", "EARoot/EA4/EA91.htm", "16.png", "E92", "E90", "", "GUIElement0","{B8674999-311A-4b67-B987-ADAC424F8F5F}");
+tocTab[tocTab.length] = new Array("0.4:10", "", "«form» Quan ly phieu bom", "EARoot/EA4/EA96.htm", "16.png", "E100", "E97", "", "GUIElement0","{DB838BB4-A5D0-4d95-A4B6-22E961E99F93}");
